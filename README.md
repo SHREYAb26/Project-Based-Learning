@@ -3,11 +3,9 @@
 Traffic jams at road crossings is a major issue in a populous country like India. During
 emergency situations this becomes a major obstacle, which needs to be resolved in
 order to save a lot of lives especially in case of medical emergencies.
-In order to solve this problem a lot of researchers and scientists have presented their
-ideas in various research papers. After analysis of these research papers, along with
+After analysis of these research papers, along with
 some corrections and new ideas, solutions and models were proposed.
-The different proposed models were again analysed according to transmission and
-processing. Out of which, one solution which was thought to be best suited, that
+Out of which, one solution which was thought to be best suited, that
 included RFID tag and reader, was selected. Components along with specifications
 were listed and costing estimated. Based on infrastructure and location of traffic
 junction this solution was further classified into 3 types: Overbridge sensor, sideways
